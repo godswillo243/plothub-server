@@ -1,0 +1,21 @@
+{
+  "include": ["src/**/*.ts", "src/types/**/*.d.ts", ],
+  "exclude": ["./drizzle.config.ts"],
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
+    "isolatedModules": true,
+    "skipLibCheck": true,
+  },
+}

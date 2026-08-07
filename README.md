@@ -409,11 +409,11 @@ This project and its source code are proprietary. No part of this repository may
 
 ## 👤 Author
 
-**Godswill Lucky**
+**Godswill Ogbodu**
 
-Full-stack Web & Mobile Developer, building PlotHub and EventSpace.
+Full-stack Web & Mobile Developer, building PlotHub.
 
-- 💻 GitHub: [@godswill-lucky](https://github.com/godswill-lucky)
+- 💻 GitHub: [@godswillo243](https://github.com/godswillo243)
 - 🌐 Building in public across TikTok, X, LinkedIn, Facebook & Instagram
 
 ---
